@@ -1,0 +1,22 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+ 
+}
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #EEEEEE;
+  @apply overflow-x-hidden;
+  
+
+}
+
+
